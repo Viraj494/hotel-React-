@@ -1,0 +1,33 @@
+.offers-title{
+    text-align: center;
+    color: #252776;
+}
+
+.offers-card{
+    margin-top: 50px;
+    width: 300px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    border: #252776;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.offers-card img{
+    width: 300px;
+    height: auto;
+}
+
+.offers-btn{
+    margin-top: 10px;
+    padding: 5px 20PX;
+    color: #876a20;
+    border-color: #876a20;
+    box-shadow: none;
+}
+
+.offers-btn:hover{
+    color: #d3b15d;
+}

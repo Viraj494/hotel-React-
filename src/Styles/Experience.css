@@ -1,0 +1,17 @@
+.experience-title{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.experience-title h1{
+    color: #252776;
+}
+
+.experience-cards-container {
+    margin-left: 70px;
+    margin-right: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
